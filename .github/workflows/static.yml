@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ajibogun Muideen</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Ajibogun Muideen</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="projets.html">Projets</a></li>
+        <li><a href="galerie.html">Galerie</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="admin.html">Admin</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>Bienvenue sur mon site</h2>
+    <p>Je suis Ajibogun Muideen, développeur passionné et déterminé à devenir le plus grand programmateur de France.</p>
+    <img src="IMG_20210610_000409.jpg" alt="Portrait Ajibogun" style="width:200px">
+    <img src="d319b19b-5850-4380-8d70-ca07d536f5a5.JPG" alt="Ajibogun devant voiture" style="width:200px">
+  </main>
+  <footer>
+    <p>&copy; 2025 Ajibogun Muideen</p>
+  </footer>
+</body>
+</html>
+
+<!-- projets.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Projets - Ajibogun Muideen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Mes Projets</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="galerie.html">Galerie</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Devenir le plus grand programmateur de France</h2>
+    <p>[Par Ajibogun Muideen, 29 ans, d’origine nigériane
+"Je ne suis pas ici pour suivre les règles. Je suis ici pour les réécrire."
+
+Je m'appelle Ajibogun Muideen. J'ai 29 ans, je suis originaire du Nigéria, et j’ai une mission claire : devenir le plus grand programmateur de France. Pas un bon développeur, pas un talent prometteur. Non. Le plus grand.
+
+Je veux que, dans les écoles d'informatique, dans les startups, dans les entreprises tech, mon nom soit cité comme une référence. Comme celui qui a tout appris, tout cassé, tout reconstruit — à sa manière.
+
+🌍 D’où je viens, et pourquoi ça change tout
+Je viens d’un pays où la réussite se gagne, où chaque pas est une conquête. Le Nigéria m’a appris à être endurant, créatif, patient, et surtout affamé. Faim de savoir. Faim de progrès. Faim de victoire.
+
+Quand je suis arrivé en France, je ne parlais peut-être pas encore le langage des machines, mais je parlais déjà celui de la détermination. Et la programmation, je l’ai vue comme une opportunité : celle de tout créer, de zéro, avec mes deux mains et mon esprit.
+
+👨🏾‍💻 Pourquoi la programmation ?
+Parce que le code ne ment pas. Il est brut, direct, exigeant. Et il récompense ceux qui persévèrent.
+Pour moi, coder, ce n’est pas juste écrire des lignes de texte. C’est construire des mondes, résoudre des problèmes, créer des outils, changer des vies.
+
+Chaque bug est un défi. Chaque fonction, une arme. Chaque projet, un pas vers le sommet.
+
+💥 Une vision claire : devenir le meilleur
+Mon but n’est pas de "faire carrière" ou d’avoir "un bon poste".
+Mon but, c’est de devenir une légende vivante du code.
+
+Je veux que mes projets parlent pour moi. Que mes lignes de code soient citées comme des références. Que mon nom devienne un symbole de réussite, un exemple pour tous les jeunes qui doutent, tous ceux qu’on sous-estime.
+
+Je ne veux pas être bon. Je veux être inévitable.
+
+🔧 Ce que j’apprends, ce que je construis
+Je suis en train de maîtriser tout ce qu’un développeur moderne doit connaître :
+
+HTML, CSS, JavaScript — les bases solides
+
+Git et GitHub — pour coder proprement, collaborer, publier
+
+React, Node.js, Tailwind — les outils d’avenir
+
+Et chaque jour, j’ajoute une brique à ma forteresse de savoir
+
+Je ne compte pas mes heures. Je ne triche pas avec moi-même. Je travaille, j’apprends, je grandis.
+
+🔥 Mes forces
+La discipline : je ne lâche jamais
+
+La résilience : je tombe, je me relève plus fort
+
+L’audace : je vise haut, très haut
+
+La vision : je sais où je vais
+
+Je suis prêt à prendre ma place dans ce pays. Et je ne demanderai pas la permission.
+
+🤝 Un message à tous ceux qui doutent
+Si tu viens de loin. Si tu penses que la tech, ce n’est pas pour toi. Si on t’a dit que c’est trop dur, trop fermé, trop tard... regarde-moi.
+
+Je ne suis pas né avec un clavier dans les mains. Mais je vais le dominer.
+
+Je ne viens pas de Paris, ni d’une grande école. Mais je vais faire en sorte qu’un jour, elles m’invitent à parler.
+
+Tu peux apprendre. Tu peux progresser. Et tu peux, toi aussi, marquer l’histoire. Il faut juste que tu le veuilles plus fort que tout.
+
+🎯 Conclusion : Je suis Ajibogun Muideen
+Je suis déterminé.
+Je suis prêt.
+Et je ne vais pas seulement participer.
+
+Je vais régner.]</p>
+  </main>
+</body>
+</html>
+
+<!-- galerie.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Galerie - Ajibogun Muideen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Galerie</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="projets.html">Projets</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Mes Images</h2>
+    <img src="IMG_20210610_000409.jpg" alt="Moi" style="width:200px">
+    <img src="d319b19b-5850-4380-8d70-ca07d536f5a5.JPG" alt="Moi voiture" style="width:200px">
+
+    <h2>Mes Vidéos</h2>
+    <video width="320" height="240" controls>
+      <source src="video.mp4" type="video/mp4">
+      Votre navigateur ne supporte pas la vidéo.
+    </video>
+  </main>
+</body>
+</html>
+
+<!-- contact.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact - Ajibogun Muideen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contact</h1>
+    <nav>
+      <a href="index.html">Accueil</a>
+      <a href="projets.html">Projets</a>
+      <a href="galerie.html">Galerie</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Formulaire de Contact</h2>
+    <form action="#" method="post">
+      <label>Nom :</label>
+      <input type="text" name="nom" required><br>
+      <label>Email :</label>
+      <input type="email" name="email" required><br>
+      <label>Message :</label><br>
+      <textarea name="message" rows="5" cols="30" required></textarea><br>
+      <input type="submit" value="Envoyer">
+    </form>
+  </main>
+</body>
+</html>
+
+<!-- admin.html -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin - Ajibogun Muideen</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    function verifierMotDePasse() {
+      const mdp = prompt("Mot de passe admin :");
+      if (mdp !== "muideen") {
+        alert("Accès refusé");
+        window.location.href = "index.html";
+      }
+    }
+    window.onload = verifierMotDePasse;
+  </script>
+</head>
+<body>
+  <header>
+    <h1>Interface d'Administration</h1>
+  </header>
+  <main>
+    <h2>Ajouter une image ou une vidéo</h2>
+    <form enctype="multipart/form-data">
+      <label>Fichier :</label>
+      <input type="file" name="media"><br>
+      <label>Lien externe (optionnel) :</label>
+      <input type="url" name="lien"><br>
+      <input type="submit" value="Ajouter">
+    </form>
+
+    <h2>Ajouter un projet</h2>
+    <form>
+      <label>Titre :</label>
+      <input type="text" name="titre"><br>
+      <label>Description :</label><br>
+      <textarea name="description" rows="5" cols="30"></textarea><br>
+      <label>Image associée :</label>
+      <input type="file" name="image"><br>
+      <input type="submit" value="Publier le projet">
+    </form>
+  </main>
+</body>
+</html>
+
+<!-- style.css -->
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  color: #222;
+}
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+}
+main {
+  padding: 20px;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #eee;
+  margin-top: 20px;
+}

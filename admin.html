@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Admin - Ajibogun Muideen</title>
+  <link rel="stylesheet" href="style.css">
+  <script>
+    function verifierMotDePasse() {
+      const mdp = prompt("Mot de passe admin :");
+      if (mdp !== "wale") {
+        alert("Accès refusé");
+        window.location.href = "index.html";
+      }
+    }
+    window.onload = verifierMotDePasse;
+  </script>
+</head>
+<body>
+  <header>
+    <h1>Interface d'Administration</h1>
+  </header>
+  <main>
+    <h2>Ajouter une image ou une vidéo</h2>
+    <form enctype="multipart/form-data">
+      <label>Fichier :</label>
+      <input type="file" name="media"><br>
+      <label>Lien externe (optionnel) :</label>
+      <input type="url" name="lien"><br>
+      <input type="submit" value="Ajouter">
+    </form>
+
+    <h2>Ajouter un projet</h2>
+    <form>
+      <label>Titre :</label>
+      <input type="text" name="titre"><br>
+      <label>Description :</label><br>
+      <textarea name="description" rows="5" cols="30"></textarea><br>
+      <label>Image associée :</label>
+      <input type="file" name="image"><br>
+      <input type="submit" value="Publier le projet">
+    </form>
+  </main>
+</body>
+</html>
